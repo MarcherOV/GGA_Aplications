@@ -42,6 +42,7 @@ bash
 alias gnss_run='/path/to/GNSS'
 
 Replace /path/to/GNSS with the path to your directory.
+
 Polish Version
 GNSS Logger (zrobione przez 5623)
 Opis Projektu
@@ -86,6 +87,7 @@ bash
 alias gnss_run='/path/to/GNSS'
 
 Zamień /path/to/GNSS na ścieżkę do katalogu.
+
 Ukrainian Version
 GNSS Logger (made by 5623)
 Опис проєкту

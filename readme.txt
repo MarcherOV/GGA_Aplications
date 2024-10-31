@@ -1,4 +1,5 @@
-README
+README(made by Volodymyr Marchuk/MarcherOV)
+
 Project Description
 This Python project enables automatic recording of GPS data in GGA and NMEA formats and adds Google Maps links for coordinates obtained from GGA sentences. It is especially useful for real-time location tracking using a Raspberry Pi that works with a GNSS (Global Navigation Satellite System) module. The project is designed for Linux-based systems (e.g., Raspberry Pi OS), providing real-time geolocation tracking by coordinates.
 
